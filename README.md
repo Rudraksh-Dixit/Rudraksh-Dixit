@@ -5,7 +5,7 @@ Cybersecurity-focused developer building tools for threat detection, OSINT, and 
 - 🔭 Currently building **osintEye** — an open-source intelligence platform for IP/domain scanning, threat scoring, and geo visualization
 - 🛡️ Interested in SOC tooling, detection engineering, and threat hunting
 - 🌱 Exploring AI-assisted threat detection (see `apt-hunter-ai`)
-- 📫 Reach me at: **[your email]** · [LinkedIn](https://linkedin.com/in/your-handle) · [Twitter/X](https://twitter.com/your-handle)
+- 📫 Reach me at: **[voyagerrudraksh@gmail.com]** · [LinkedIn](https://linkedin.com/in/your-handle) · [Twitter/X](https://twitter.com/your-handle)
 
 ---
 
